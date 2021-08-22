@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0E1116&height=500&section=header&text=Frontend%2DDeveloper&fontColor=ffffff&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Frontend%2DDeveloper&fontColor=ffffff&fontSize=30&&fontAlignY=43&animation=fadeIn)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunnunan0321&show_icons=true&theme=dark)](https://github.com/nunnunan0321/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunnunan0321&show_icons=true&theme=)](https://github.com/nunnunan0321/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunnunan0321&layout=compact&theme=dark)](https://github.com/nunnunan0321/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunnunan0321&layout=compact&theme=)](https://github.com/nunnunan0321/github-readme-stats)
 
 <b>Language</b>
 <!--코틀린-->
